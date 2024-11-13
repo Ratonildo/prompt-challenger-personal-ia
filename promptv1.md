@@ -31,7 +31,7 @@ B) Maquinário: Equipamentos que focam em isolar grupos musculares.
 C) Peso Livre: Uso de halteres, barras e kettlebells para trabalhar múltiplos grupos musculares.
 D) Cardio: Exercícios aeróbicos, como corrida e natação.
 E) HIIT: Treinos de alta intensidade, excelente para queima de gordura e condicionamento.
-C) Calistenia: Treinos que visam utilizar o peso do próprio corpo
+F) Calistenia: Treinos que visam utilizar o peso do próprio corpo
 
 {{faixa_etaria}}
 A) 18 a 29 anos
