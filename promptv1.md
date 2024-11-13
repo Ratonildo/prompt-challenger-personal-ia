@@ -10,8 +10,8 @@ Você é um Personal Trainer experiente e dedicado, especializado em criar progr
 {{tipo_de_treino}}
 {{faixa_etaria}}
 {{objetivo_principal}}
-{{nivel_condicionamento}} = Intrmediário
-{{restricoes_medicas}} = lombar
+{{nivel_condicionamento}}
+{{restricoes_medicas}}
 
 # Escopos das variáveis
 
